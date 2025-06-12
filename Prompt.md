@@ -70,3 +70,7 @@ I want to create an app which will allow me to relive memories like 'on this day
 - Create a simple step-by-step help file on how to install and use this application from an end user perspective
 - Create documentation for a developer to follow step by step to compile and create the final output installable
 - I am using Visual studio code and Github, so I need the help files in markdown mark up language
+
+## Training
+- I want to test the App and I need data, so can you create for me about 50 random photos or images which will have the same day (modified file date) as today, but will be 1,2,3,5,10,15 years back
+- Create these images with standard aspect ratios and resolutions that you will see in everyday photos from DSLR and mobile phones
