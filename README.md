@@ -127,8 +127,8 @@ To uninstall Memories App:
 If you encounter any issues or have questions about Memories App, log issues in github
 https://github.com/skarapanahalli/MemoriesApp
 
-## Manus.ai Referal
-If you want to try Manus.ai and need a referal, connect me in LinkedIn and message me your email Id and I can refer. 
+## Manus.ai referal
+If you want to try Manus.ai and need a referal, connect with me in LinkedIn and message me your email Id and I can refer. 
 My linkedIn profile is https://www.linkedin.com/in/skarapanahalli/
 
 
