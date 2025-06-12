@@ -19,12 +19,13 @@ Welcome to Memories App! This application helps you relive your cherished memori
   - moviepy
   - PyQt5
   - pillow
+  - pyinstaller 
 
 ### Installation Steps (for Developer)
 1. Clone the Github project to your PC 
 2. Switch to your python environment
 3. Use the requirements.txt to download the necessary python libraries
-3. Open a command prompt and run the [installer.bat](installer\installer.bat)
+3. Open a command prompt and run the [installer.bat](installer/installer.bat)
 4. You should see the `MemoriesApp_Setup.exe` created
 5. Double-click the `MemoriesApp_Setup.exe` on the target PC
 6. Follow the on-screen instructions to complete the installation.
