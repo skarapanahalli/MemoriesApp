@@ -1,9 +1,9 @@
 # Memories App - Developer/User Guide
 
 ## Introduction
-This app was created to test new age Gen AI tools. You are welcome to try it out yourself, just use the `Prompt.md` 
-But do note that depending on the AI tool you use, you many have to resolve by interacting with AI chat bot
-If you just want to use the output, look at the installation section
+This app was created to test new age Gen AI tools. You are welcome to try it out yourself, just use the [Prompt.md](Prompt.md) 
+But do note that depending on the AI tool you use, you may encounter issues which you have to resolve 1 by 1 by interacting with AI chat bot
+If you just want to compile and use the output, look at the installation section below
 
 ## About Memories App
 Welcome to Memories App! This application helps you relive your cherished memories by automatically creating daily slideshows from photos taken on the same day in previous years. Similar to the "On This Day" feature in Google Photos, Memories App brings your past moments back to life with beautiful slideshows set to music.
@@ -24,7 +24,7 @@ Welcome to Memories App! This application helps you relive your cherished memori
 1. Clone the Github project to your PC 
 2. Switch to your python environment
 3. Use the requirements.txt to download the necessary python libraries
-3. Open a command prompt and run installer\installer.bat
+3. Open a command prompt and run the [installer.bat](installer\installer.bat)
 4. You should see the `MemoriesApp_Setup.exe` created
 5. Double-click the `MemoriesApp_Setup.exe` on the target PC
 6. Follow the on-screen instructions to complete the installation.
@@ -42,9 +42,7 @@ Welcome to Memories App! This application helps you relive your cherished memori
 2. `This has been tested only on windows 11 with 24H2 updates`
 
 ## Initial Configuration
-
 When you first run Memories App, you'll need to configure it according to your preferences:
-
 1. Launch the Memories App Configuration tool from the Start Menu or Desktop shortcut.
 2. Configure the following settings:
 
@@ -70,6 +68,7 @@ When you first run Memories App, you'll need to configure it according to your p
 - **Music File Path**: Select a music file to use as background music for the slideshows. You can use any MP3 or WAV file.
 
 3. Click "Save Configuration" to save your settings.
+4. Always remember to launch the App as ADMINISTRATOR - It will not work otherwise
 
 ## Using Memories App
 
@@ -125,11 +124,10 @@ To uninstall Memories App:
 
 ## Support
 If you encounter any issues or have questions about Memories App, log issues in github
-`https://github.com/skarapanahalli/MemoriesApp`
+https://github.com/skarapanahalli/MemoriesApp
 
-## Manus.ai referal
+## Manus.ai Referal
 If you want to try Manus.ai and need a referal, connect me in LinkedIn and message me your email Id and I can refer. 
-My linkedIn profile is here
-https://www.linkedin.com/in/skarapanahalli/
+My linkedIn profile is https://www.linkedin.com/in/skarapanahalli/
 
 
